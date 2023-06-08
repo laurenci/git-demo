@@ -1,2 +1,3 @@
 Hello World!
 Hello World from GitHub!
+Hello World from the local repository!
