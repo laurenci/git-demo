@@ -5,3 +5,5 @@ Hello World from the local repository!
 I'll send it to the remote repository!
 
 Feature's branch "Hello World!"
+
+Another one bites the dust ;)
