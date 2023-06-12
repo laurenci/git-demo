@@ -2,3 +2,9 @@
 .env
 #to ignore all .env files you need to use *.env
 *.env
+#to ignore files with extensions .db and .log
+*.db
+*.log
+#to ignore directories with names target and bin
+target/
+bin/
